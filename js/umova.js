@@ -7,7 +7,7 @@
 
 // if (hamburger || fries || cola){
 //     console.log('ок');
-// }
+// }dfg
 
 let hamburger;
 const fries   = NaN;
